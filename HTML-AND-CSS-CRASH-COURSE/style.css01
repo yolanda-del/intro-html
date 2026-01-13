@@ -1,0 +1,26 @@
+/*p.error{
+   color: red; 
+}
+p.success{
+    color: green;
+}
+p.success.feedback{
+    border: px dashed #4fdb4f;
+}
+div#content{
+    background-color: #ebebeb;
+    pading: 20px;
+} */
+/*div  .error{
+ color: red;
+ color: purple:   
+}*/
+a[href="https://www.thenetninja.co.uk]{
+ background-color: #3dd13d;
+ color: #white;
+ text-decoration: none;
+ font-weigth: bold;
+ text-transform: uppercase;
+ 
+
+}

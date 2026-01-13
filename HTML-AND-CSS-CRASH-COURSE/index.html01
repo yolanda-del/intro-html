@@ -1,0 +1,10 @@
+span{
+   /*display: block; */
+ 
+}
+div{
+/*display: incline; */
+border: 2px solid crimson;
+margin: 20px
+padding:20px;
+}
